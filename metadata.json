@@ -1,0 +1,6 @@
+{
+  "name": "RecipeSwipe",
+  "description": "Yemek Tarifi Tinder'ı - Sağa/sola kaydırarak lezzetli tarifler keşfet ve kaydet!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
